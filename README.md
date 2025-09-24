@@ -7,7 +7,7 @@ Arcade-style game originally built in **Scratch**, packaged with **TurboWarp** f
 ## 🐾 Game Overview
 - **Scene 1: PlanetX** – Guide Dot the dog to the Starship while dodging Elon and plasma balls.  
 - **Scene 2: Spaceship** – Delete angry tweets!  
-- **Scene 3: Earth** – Reach the hydrant while avoiding the Cybertruck.  
+- **Scene 3: Earth** – Relieve yourself now back on Earth..  
 
 ---
 
