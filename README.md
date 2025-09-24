@@ -40,4 +40,4 @@ Or try the GitHub Pages build:
 ---
 
 ## ✨ About
-This project is part of my AI/CS journey — a playful demo showing creativity, logic, and interactive design.  
+This project is part of my AI/CS journey (CS50x) — a playful demo showing creativity, logic, and interactive design.  
