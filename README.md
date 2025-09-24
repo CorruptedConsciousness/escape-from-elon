@@ -11,6 +11,19 @@ Arcade-style game originally built in **Scratch**, packaged with **TurboWarp** f
 
 ---
 
+
+## 📸 Screenshots
+
+**Scene 1: PlanetX**  
+<img src="assets/PlanetX2.png" width="600"/>
+
+**Scene 2: Starship Interior**  
+<img src="assets/StarshipInterior.png" width="600"/>
+
+**Scene 3: Earth**  
+<img src="assets/Earth.png" width="600"/>
+
+
 ## ▶ Play the Game
 👉 [Play Escape from Elon on Scratch](https://scratch.mit.edu/projects/1192573699)  
 
