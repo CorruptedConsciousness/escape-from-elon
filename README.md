@@ -8,7 +8,7 @@ Arcade-style game originally built in **Scratch**, packaged with **TurboWarp** f
 - **Scene 3: Earth** – Relieve yourself once back on Earth.
 
 ## ▶ Play the Game
-👉 [Play Escape from Elon](https://corruptedconsciousness.github.io/escape-from-elon/)  
+👉 [Play Escape from Elon](https://corruptedconsciousness.github.io/escape-from-elon/](https://scratch.mit.edu/projects/1192573699)  
 
 Or open it directly on Scratch:  
 [Scratch Project Link](https://scratch.mit.edu/projects/1192573699)  
